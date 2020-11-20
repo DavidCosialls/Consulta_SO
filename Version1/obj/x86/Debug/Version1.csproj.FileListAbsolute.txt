@@ -1,0 +1,110 @@
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\bin\Debug\Version1.exe
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\bin\Debug\Version1.pdb
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.Consultas.resources
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.Login.resources
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.Register.resources
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.exe
+C:\Users\brcri\AppData\Local\Temporary Projects\Version1\obj\x86\Debug\Version1.pdb
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.exe
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.pdb
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.Consultas.resources
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.Login.resources
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.Register.resources
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\bin\Debug\Version1.exe
+C:\Users\brcri\Desktop\Universidad\SO\Proyecto\Version1\Version1\bin\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\bin\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\bin\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.Consultas.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.Login.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.Register.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+D:\Drive Universidad\Universidad\Tercer Año\SO\Version1_Cris\Version1\obj\x86\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\bin\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\bin\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.Consultas.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.Login.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.Register.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\bin\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\bin\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.Consultas.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.Login.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.Register.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\Prueba 1 locuras y PRUEBA 2\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\bin\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\bin\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.Consultas.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.Login.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.Register.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\bin\Debug\Version1.exe
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\bin\Debug\Version1.pdb
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.csprojAssemblyReference.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.Consultas.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.Login.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.Register.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.csproj.CoreCompileInputs.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.exe
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\VERSION 2 y 18 minutos\VERSIÓN DEFINITIVA PROTOTIPO 1\Version1\obj\x86\Debug\Version1.pdb
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\bin\Debug\Version1.exe
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\bin\Debug\Version1.pdb
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\obj\x86\Debug\Version1.csprojAssemblyReference.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\obj\x86\Debug\Version1.Consultas.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\obj\x86\Debug\Version1.Login.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\obj\x86\Debug\Version1.Register.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\obj\x86\Debug\Version1.csproj.CoreCompileInputs.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\obj\x86\Debug\Version1.exe
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2\Version1\obj\x86\Debug\Version1.pdb
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\bin\Debug\Version1.exe
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\bin\Debug\Version1.pdb
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.csprojAssemblyReference.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.Consultas.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.Login.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.Register.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.csproj.CoreCompileInputs.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.exe
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\bin\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\bin\Debug\Version1.pdb
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.csprojResolveAssemblyReference.cache
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.Consultas.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.Login.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.Register.resources
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 2 VERSION MEJORADA\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.Cache
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.exe
+D:\Drive Universidad\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.pdb
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\bin\Debug\Version1.exe
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\bin\Debug\Version1.pdb
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.csprojAssemblyReference.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.Consultas.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.Login.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.Properties.Resources.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.Register.resources
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.csproj.GenerateResource.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.csproj.CoreCompileInputs.cache
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.exe
+C:\Users\david\Google Drive (david.cosialls@estudiantat.upc.edu)\Universidad\Tercer Año\SO\Versión 2\Version 3 funciona conectados\Version1\obj\x86\Debug\Version1.pdb
